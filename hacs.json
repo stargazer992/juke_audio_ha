@@ -1,0 +1,9 @@
+json{
+  "name": "Juke Audio",
+  "content_in_root": false,
+  "render_readme": true,
+  "domains": ["media_player", "select", "sensor", "number", "switch"],
+  "homeassistant": "2023.1.0",
+  "iot_class": "Local Polling",
+  "country": ["US"]
+}
